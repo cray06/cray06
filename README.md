@@ -65,7 +65,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/cray06/cray06/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/cray06/cray06/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
 ###
 
