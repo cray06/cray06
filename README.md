@@ -71,18 +71,6 @@ Currently studying at <b>Epitech Lille</b>.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=cray06&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cray06&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-decloquement-3062a21b9/)
